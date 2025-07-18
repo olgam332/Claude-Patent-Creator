@@ -9,3 +9,4 @@ Notes and usage details for Claude-Patent-Creator.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
