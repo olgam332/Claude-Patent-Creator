@@ -14,3 +14,4 @@ Notes and usage details for Claude-Patent-Creator.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
