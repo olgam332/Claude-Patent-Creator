@@ -27,3 +27,4 @@ Notes and usage details for Claude-Patent-Creator.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- add a note about the defaults
