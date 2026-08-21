@@ -40,3 +40,4 @@ Notes and usage details for Claude-Patent-Creator.
 - clarify the setup steps
 - add a note about the defaults
 - fix a small wording issue
+- fix a small wording issue
