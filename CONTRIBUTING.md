@@ -47,3 +47,4 @@ Notes and usage details for Claude-Patent-Creator.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
