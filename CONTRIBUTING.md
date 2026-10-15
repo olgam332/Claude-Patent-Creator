@@ -48,3 +48,4 @@ Notes and usage details for Claude-Patent-Creator.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
